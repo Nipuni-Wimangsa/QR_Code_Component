@@ -5,7 +5,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Table of contents
 
 - [Overview](#overview)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -13,87 +12,46 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
 This is a beginer friendly project for honing and apply the HTML & CSS skills I have learned so far.
 
-### Screenshot
-
-![Screenshot](images/Screenshot.png)
-
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/Nipuni-Wimangsa/QR_Code_Component](https://github.com/Nipuni-Wimangsa/QR_Code_Component)
+- Live Site URL: [https://nipuni-wimangsa.github.io/QR_Code_Component/](https://nipuni-wimangsa.github.io/QR_Code_Component/)
 
 ## My process
+
+First I studied the pictures provided by Frontend Mentor inorder to figure out how to structure the html with necessary classes. Next I took my time to style it. It was a hard yet exciting process considering it is my first time doing this kind of a project by myself, without a guide tutorial.
 
 ### Built with
 
 - Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- CSS Grid
+- CSS
+- Flex Display
 - Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
-
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
+This is something I learned through this project. At first I strugled to fit the image into the card. But after doing a little research I figure out the solution. By setting width 100% it fits in to the entire width of the container which is in this case is the card.
 
 ```css
-.proud-of-this-css {
-  color: papayawhip;
+.card__header .card--image {
+  width: 100%;
 }
 ```
 
-```js
-const proudOfThisFunc = () => {
-  console.log("🎉");
-};
-```
-
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
-
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
-
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
+I am still a little bit lost in flex area. I struggled a lot aligning the card into the center of the viewheight of the browser. So I would like to do more projects on that area an improve my skills.
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
+- [Example resource 1](https://www.w3schools.com/howto/howto_css_cards.asp) - This helped me to figure out the way to fit the image into the card.
+- [Example resource 2](https://forum.freecodecamp.org/t/css-grid-how-to-center-cards/225548/4) - This simple snippet of code helped me to figure out that I can use flex to align the card easily to the center.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
-
-## Acknowledgments
-
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+- Frontend Mentor - [@yNipuni-Wimangsa](https://www.frontendmentor.io/profile/Nipuni-Wimangsa)
