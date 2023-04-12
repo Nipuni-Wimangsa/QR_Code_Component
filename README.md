@@ -54,4 +54,4 @@ I am still a little bit lost in flex area. I struggled a lot aligning the card i
 
 ## Author
 
-- Frontend Mentor - [@yNipuni-Wimangsa](https://www.frontendmentor.io/profile/Nipuni-Wimangsa)
+- Frontend Mentor - [@Nipuni-Wimangsa](https://www.frontendmentor.io/profile/Nipuni-Wimangsa)
