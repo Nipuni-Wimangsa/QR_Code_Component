@@ -19,8 +19,8 @@ This is a beginer friendly project for honing and apply the HTML & CSS skills I 
 
 ### Links
 
-- Solution URL: [https://nipuni-wimangsa.github.io/QR_Code_Component/](https://nipuni-wimangsa.github.io/QR_Code_Component/)
-- Live Site URL: [https://github.com/Nipuni-Wimangsa/QR_Code_Component](https://github.com/Nipuni-Wimangsa/QR_Code_Component)
+- Solution URL: [https://github.com/Nipuni-Wimangsa/QR_Code_Component](https://github.com/Nipuni-Wimangsa/QR_Code_Component)
+- Live Site URL: [https://nipuni-wimangsa.github.io/QR_Code_Component/](https://nipuni-wimangsa.github.io/QR_Code_Component/)
 
 ## My process
 
