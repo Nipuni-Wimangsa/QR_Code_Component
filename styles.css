@@ -4,10 +4,10 @@ body {
 }
 
 .container {
-  align-items: center;
+  height: 100vh;
   display: flex;
   flex-direction: column;
-  height: 100vh;
+  align-items: center;
   justify-content: center;
 }
 
@@ -26,7 +26,6 @@ body {
 
 .card__body {
   text-align: center;
-  padding: 10px;
   padding: 0 14px 5px 14px;
 }
 
